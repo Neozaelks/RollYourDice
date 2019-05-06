@@ -39,10 +39,7 @@ module.exports.run = async (bot, message, args) => {
                     embed2.addField("STOP", "pour arrêter");
                     embed2.addField("Vous avez...", "40 secondes");
                     /*Cet if est utile uniquement pour le créateur de ce bot. Vous pouvez le supprimer sans problème*/
-                    if (direction1 === "Agrannok") {
-                        embed2.setThumbnail("https://cdn.discordapp.com/attachments/558005789701177356/558988485927895040/IMG_20190323_131953.jpg");
-
-                    }
+                    
                     /*FIN DE SUPPRESSION*/
                     message.channel.send(embed2);
 
