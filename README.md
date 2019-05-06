@@ -21,22 +21,11 @@ Cette commande permet de naviguer et d'afficher le contenu du fichier joueurs.js
 
 *Cette commande sera modifiée très prochainement pour améliorer son fonctionnement.*
 
-### !play [nom de l'ambiance]
-Cette commande permet de jouer des musiques d'ambiances pour le JDR. **Cette commande ne permet pas de lancer une musique en particulier, comme FredBoat ou Rythm le ferait.** Cette commande est disponible uniquement pour les personnes ayant le rôle `@MJ`.
-
-*Cette commande sera modifiée prochainement pour permettre de modifier les rôles pouvant accéder à cette commande.*
-
-### !stop
-Cette commande permet d'arrêter une ambiance sonore en JDR, et déconnecte le bot du salon vocal.
-
 ## Changements et ajouts à venir
 
 * Ajout d'un message d'erreur en cas d'erreur sur la commande !roll
 * Ajout d'informations sur la commande !infoserv
 * Modification totale de la commande !charinfo
-* Permission de jouer n'importe quelle musique via la commande !play
-* Fix de la commande !play (pouvoir jouer plusieurs musiques à la suite)
-* Ajout d'une queue avec la commande !play
 
 ## Autres informations
 
