@@ -11,8 +11,8 @@ Cette commande affiche le nom du serveur, son créateur, son nombre de membres, 
 
 ### !roll `x`d`y`
 Cette commande permet de lancer un dé, en fonction des arguments de la commande. Le paramètre `x` désigne le nombre de dés à jeter, et le paramètre `y` désigne le nombre de faces de ces dés.
-L'ensemble de définition des résultats des dés est [`0`, `y-1`]. 
 
+L'ensemble de définition des résultats des dés est [`0`, `y-1`].
 *Ce paramètre pourra être modifié dans des versions futures.*
 
 ### !charinfo
