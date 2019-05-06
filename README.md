@@ -44,3 +44,13 @@ Ce bot, toutes ses interventions, et toutes les images générées, affichées o
 Vous pouvez faire part des erreurs ou des suggestions pour ce bot de deux façons :
 * Soit via GitHub, en soumettant une 'Issue',
 * Soit sur le serveur associé à ce bot, dont le lien est [juste ici !](https://discord.gg/bqsXPSn)
+
+## Dépendances
+
+Ce bot discord utilise 4 dépendances majeures, que vous devrez installer afin d'utiliser le bot.
+* discord.js 11.4.2
+* ffmpeg-binaries 4.0.0
+* opusscript 0.0.6
+* ytdl-core 0.29.1
+
+# Merci !
