@@ -38,9 +38,7 @@ module.exports.run = async (bot, message, args) => {
 
                     embed2.addField("STOP", "pour arrêter");
                     embed2.addField("Vous avez...", "40 secondes");
-                    /*Cet if est utile uniquement pour le créateur de ce bot. Vous pouvez le supprimer sans problème*/
-                    
-                    /*FIN DE SUPPRESSION*/
+
                     message.channel.send(embed2);
 
                     message.channel.awaitMessages(filter, {
