@@ -37,7 +37,7 @@ Vous pouvez faire part des erreurs ou des suggestions pour ce bot de deux façon
 
 ## Dépendances
 
-Ce bot discord utilise 4 dépendances majeures, que vous devrez installer afin d'utiliser le bot.
+Ce bot discord utilise une dépendance majeure, que vous devrez installer afin d'utiliser le bot.
 * discord.js 11.4.2
 
 # Merci !
